@@ -8,7 +8,8 @@ This project provides code snippets for audio processing and feature extraction 
 - Code snippets and inspiration from:
   - [Towards Data Science: Extract Features of Music](https://towardsdatascience.com/extract-features-of-music-75a3f9bc265d)
   - [Kaggle Notebook: Feature Extraction from Audio](https://www.kaggle.com/code/ashishpatel26/feature-extraction-from-audio/notebook)
-  - [extras/test-gb.mav (excerpt from the track "Gentle Blade" from the Sekiro: Shadows Die Twice Original Soundtrack - Yuka Kitamura)](https://www.youtube.com/watch?v=tOzQ_OqnY2s)
+- [extras/test-gb.mav (excerpt from the track "Gentle Blade" from the Sekiro: Shadows Die Twice Original Soundtrack - Yuka Kitamura)](https://www.youtube.com/watch?v=tOzQ_OqnY2s)
+- [ChatGPT](https://chat.openai.com)
 
 ## How it Works
 
